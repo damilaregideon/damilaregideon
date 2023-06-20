@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damilaregideon
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Ethical Hacking, Network Security
+- 🌱 I’m currently learning Ethical Hacking, Network Security and Machine learning
 - 💞️ I’m looking to collaborate on Security Auditing and Compliance
 - 📫 You can reach me via my social media links in my profile description
 
